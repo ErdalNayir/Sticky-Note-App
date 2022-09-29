@@ -1,6 +1,6 @@
 # Stick Note App
 
-I have created new web app that allows you tor create sticky notes. You can change position of sticky notes which have been created before by dragging them to their new position.
+I have created new web app that allows you tor create sticky notes. You can change position of sticky notes which have been created before by dragging them to their new position. You can do search among exsiting notes as well.
 
 ## What I have used so far?
 
